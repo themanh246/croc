@@ -161,6 +161,10 @@ rtl/core_wrap.sv
 rtl/soc_ctrl/soc_ctrl_reg_top.sv
 rtl/gpio/gpio_reg_top.sv
 rtl/gpio/gpio.sv
+rtl/ascon/ascon_core.sv 
+rtl/ascon/ascon_regs.sv
+rtl/ascon/ascon_controller.sv
+rtl/ascon/obi_ascon.sv
 rtl/croc_domain.sv
 rtl/user_domain.sv
 rtl/croc_soc.sv
